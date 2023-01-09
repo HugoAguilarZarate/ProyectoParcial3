@@ -50,3 +50,6 @@ https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20p
 El archivo Solicitarproducto.php le permite al usuario con rol de supervisor poder comprar mas productos, muestra un formulario donde se seleccionara el producto a comprar y la cantidad de cajas a comprar de aqui se rediccionara a ConfirmarC.php:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(19).png
 
+El archivo ConfirmarC.php es un formulario con la informacion para la compra de prodcutos, muestra el id de producto, nombre de producto y la cantidad a pagar por la compra de las cajas esta cantidad toma en cuenta un %10 menos del precio de producto individual para dejar un margen de ganancia al usuario:
+https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/65180836da01b30ccb33f29014c51913aa695575/Captura%20de%20pantalla%20(20).png
+
