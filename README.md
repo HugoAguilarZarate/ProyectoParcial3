@@ -42,6 +42,8 @@ El archivo ConfirmarV.php nuevamente se trata de un formulario sin embargo este 
 se muestra la ganancia que se optendra aplicando el repestivo descuento por IVA segun la cantidad de productos que se vendera, el usuario podra confirmar o cnacelar la venta, los datos se enviaran a Transaccion.php dentro la carpeta logica para reliazar las operaciones necesarias, dentro del formulario hay un chexbox pra indicar si el usuario quiere ver la factura de la venta realizada, esta factura se muestra en Factura.php:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(15).png
 
+Factura.php: https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(18).png
+
 El archivo Ventas.php le muestra al usuario todas la ventas realizadas en una tabla cada venta contiene un boton para ver la factura de cada venta:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(17).png
 
