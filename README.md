@@ -12,3 +12,6 @@ https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20p
 El archivo validausario valida las variables de sesion en cada pagina y diferencia el tipo de rol de vendedor del supervisor de cada usuario, de igual mandera se manda llamar en cada pagina:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(7).png
 
+El archivo funciones contiene una clase con todas las funciones que realizan peticiones la base de datos, de igual manera las funciones son llamadas desde los otros archivos que la ocupan: 
+https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(8).png
+
