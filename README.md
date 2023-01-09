@@ -22,6 +22,9 @@ https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20p
 El archivo funciones contiene una clase con todas las funciones que realizan peticiones la base de datos, de igual manera las funciones son llamadas desde los otros archivos que la ocupan: 
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(8).png
 
-El archivo transaccion realiza varias operaciones, realiza una venta, genera la factura, inserta un producto vendido, descuenta la mercancia de la base de datos tanto productos individuales como cajas:
+El archivo transaccion realiza varias operaciones, realiza una venta, genera la factura, inserta un producto vendido, descuenta la mercancia de la base de datos tanto productos individuales como cajas, los datos provienen de al archivo ConfirmarV de la carpeta pagina:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(10).png
+
+El archico Comprarproducto realiza las operaciones para comprar mercancia esta operacion solo la puede hacer un usuario con rol de supervisor, realiza la transferencia, la solicitud de transferancia y suma los productos comprados, los datos provienen del archivo ConfirmarC de la carpeta pagina:
+https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(12).png
 
