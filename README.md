@@ -28,3 +28,9 @@ https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20p
 El archico Comprarproducto realiza las operaciones para comprar mercancia esta operacion solo la puede hacer un usuario con rol de supervisor, realiza la transferencia, la solicitud de transferancia y suma los productos comprados, los datos provienen del archivo ConfirmarC de la carpeta pagina:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(12).png
 
+Ahora la carpeta pagina donde se encuntran los archivos donde el usuario va interactuar:
+
+
+El archivo almacen muestra una tabla con todos los productos disponibles, cuenta con un boton con el que se podra vender, lo redireccionara al archivo Vender:
+https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(13).png
+
