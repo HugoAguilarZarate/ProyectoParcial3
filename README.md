@@ -47,3 +47,6 @@ Factura.php: https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Cap
 El archivo Ventas.php le muestra al usuario todas la ventas realizadas en una tabla cada venta contiene un boton para ver la factura de cada venta:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(17).png
 
+El archivo Solicitarproducto.php le permite al usuario con rol de supervisor poder comprar mas productos, muestra un formulario donde se seleccionara el producto a comprar y la cantidad de cajas a comprar de aqui se rediccionara a ConfirmarC.php:
+https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(19).png
+
