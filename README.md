@@ -39,6 +39,6 @@ El archivo Vender es un formulario donde te muestra el precio individual y la ca
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(14).png
 
 El archivo ConfirmarV.php nuevamente se trata de un formulario sin embargo este no se puede editar, aqui se muestran todos los datos para la confirmacion de la venta
-se muestran la ganancia que se optendra aplicando el repestivo descuento por IVA segun la cantidad de productos que se vendera, el usuario podra confirmar o cnacelar la venta, los datos se enviaran a Transaccion.php dentro la carpeta logica para reliazar las operaciones necesarias:
+se muestra la ganancia que se optendra aplicando el repestivo descuento por IVA segun la cantidad de productos que se vendera, el usuario podra confirmar o cnacelar la venta, los datos se enviaran a Transaccion.php dentro la carpeta logica para reliazar las operaciones necesarias:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(15).png
 
