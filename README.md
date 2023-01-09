@@ -9,3 +9,6 @@ https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20p
 El archivo conexion, contiene la conexion con las base de datos, usando el usario por defecto y contraseña por defecto, el archivo se manda a llamar desde los otros archivos:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(6).png
 
+El archivo validausario valida las variables de sesion en cada pagina y diferencia el tipo de rol de vendedor del supervisor de cada usuario, de igual mandera se manda llamar en cada pagina:
+https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/Captura%20de%20pantalla%20(7).png
+
