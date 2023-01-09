@@ -7,6 +7,7 @@ El archivo Index.html es el login donde los usuarios Ingresan a la pagina
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/capturaspagina/Captura%20de%20pantalla%20(21).png
 
 Si no se tiene una cuenta el login tiene una opcion que te manda al archivo Registro.thml donde se ingresara un nuevo usuario con rol de vendedor
+https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/capturaspagina/Captura%20de%20pantalla%20(29).png
 
 El archivo Validar.php realiza el ingreso de sesion o el registro de un nuevo usuario:
 https://github.com/HugoAguilarZarate/ProyectoParcial3/blob/main/capturascodigo/Captura%20de%20pantalla%20(9).png
