@@ -1,0 +1,87 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+table{
+    border-color: black;
+    text-align: center;
+    margin: 7%;
+   
+    
+}
+tr, td {
+    background-color: grey;
+    border-style: double;
+    
+}
+th{
+    padding: 10px;
+    border-style: double;
+}
+th{
+    background-color: goldenrod;
+}
+header{
+    background-color: goldenrod;
+    border-style: double;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#usuario{
+    display: inline-block;
+    width: 15%;
+    text-align: center;
+    border-style: groove;
+    border-color: black;
+    padding: 5px;
+
+}
+.header{
+    width: 20%;
+    padding: 5px;
+    margin: 20px;
+}
+.titulo{
+    background-color:  goldenrod;
+    padding: 20px;
+    border-style: double;
+    border-color: black;
+    margin-left: 30%;
+    margin-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 600px;
+}
+.ocultar{
+    background-color:goldenrod;
+    border-style: none;
+    color: black;
+    outline: none;
+
+}
+button,  input[type=submit]{
+    background-color: rgb(26, 22, 22);
+    padding: 5px;
+    width: 150px;
+    border-radius: 8px;
+}
+body{
+    background-color: beige;
+}
+form, #datos{
+    background-color:  goldenrod;
+    width: 40%;
+    margin: 10%;
+    border-style: double;
+    text-align: center;
+    padding: 1%;
+    border-radius: 10px;
+}
+input, select{
+    background-color: rgb(26, 22, 22);
+    color: white;
+    padding: 3px;
+    border-radius: 8px;
+}
